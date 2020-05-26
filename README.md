@@ -1,4 +1,15 @@
-# AddressBook by Team Cowsay
+# AddressBook GUI
+
+First Look
+![](GUI/photos/01.png)
+
+Add your Information 
+![](GUI/photos/02.png)
+
+Info Saved successfully!
+
+![](GUI/photos/03.png)
+
 
 # Authors: 
 - Muhammad Arslan
