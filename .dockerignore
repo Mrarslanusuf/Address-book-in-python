@@ -1,0 +1,4 @@
+#.vagrant
+.gitignore
+#Dockerfile
+#Vagrantfile
